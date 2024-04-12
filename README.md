@@ -25,6 +25,6 @@ I'm a driven **Frontend Developer** with 3.5 years of expertise in HTML, CSS, an
 - **[GitHub](https://github.com/Srushti-9)**
 
 ## Find me around the web 🌎: 
-<img align="left" width="150" height="150" src=""></a>
+
 
 - Sharing updates on <a href="https://linkedin.com/in/srushti-suvarna-vue-developer/">LinkedIn</a> 💼
