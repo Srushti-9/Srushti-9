@@ -2,7 +2,9 @@
 
 ## About Me 🚀
 
-As a **Frontend Developer** with 3.5 years of experience, I've contributed to various projects across multiple domains, including healthcare, education, and workplace safety. My expertise lies in HTML, CSS, JavaScript, and a range of frontend frameworks and libraries such as Vue.js, React, and Express. With a strong educational background in Computer Engineering and a passion for learning, I'm committed to delivering high-quality solutions that meet the needs of users and businesses alike.
+As a **Frontend Developer** with **3.5** years of experience, I specialize in **Vue.js** and **REST API** integration, contributing to projects across healthcare, education, and workplace safety domains. My expertise includes **HTML5**, **CSS3**, **Bootstrap**, **TypeScript**, **JavaScript**,**TailwindCSS** and frameworks like **React**, **NodeJS**, **ExpressJS**, **MongoDB**. Proficient in **SPA** and **MVC** architectures, I solve problems with **Data Structures** and **Algorithms**, while understanding **Operating systems**, **DBMS**, and **Computer Networks**. With a strong educational background in Computer Engineering and a **passion for learning**, I'm committed to delivering high-quality solutions that meet the needs of users and businesses alike.
+
+<br/>
 
 - 🌱 Currently learning: **Advanced React concepts**
 - 🔭 Working on: **Building a personal portfolio website**
@@ -25,13 +27,18 @@ As a **Frontend Developer** with 3.5 years of experience, I've contributed to va
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Nunjucks](https://img.shields.io/badge/Nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=white)
     <!-- Add languages badges here -->
     </td>
     <td>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Pinia](https://skillicons.dev/icons?i=pinia)](https://skillicons.dev)
+![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -42,10 +49,12 @@ As a **Frontend Developer** with 3.5 years of experience, I've contributed to va
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![AMP](https://img.shields.io/badge/Amp-000?style=for-the-badge&logo=amp&logoColor=005AF0)
     <!-- Add framwworks & libraries badges here -->
     </td>
  </tr>
@@ -83,12 +92,15 @@ As a **Frontend Developer** with 3.5 years of experience, I've contributed to va
             <!-- Add design badges here -->
         </td>
         <td>
+![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -109,6 +121,7 @@ As a **Frontend Developer** with 3.5 years of experience, I've contributed to va
         <ul>
             <li>Sharing updates on <a href="https://linkedin.com/in/srushti-suvarna-vue-developer/">LinkedIn</a> 💼</li>
             <li>Explore my open-source projects on <a href="https://github.com/Srushti-9">GitHub</a> 🐙</li>
+            <li>Answering questions on <a href="https://stackoverflow.com/users/12917114/srushti-suvarna">Stack Overflow</a> 🚀</li>
         </ul>
     </div>
 </div>
