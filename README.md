@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a driven **Frontend Developer** with 3.5 years of expertise in HTML, CSS, and JavaScript. Experienced in collaborating with teams of up to 15 members. Eager to leverage Vue.js proficiency in crafting visually appealing and user-friendly applications.
+As a **Frontend Developer** with 3.5 years of experience, I've contributed to various projects across multiple domains, including healthcare, education, and workplace safety. My expertise lies in HTML, CSS, JavaScript, and a range of frontend frameworks and libraries such as Vue.js, React, and Express. With a strong educational background in Computer Engineering and a passion for learning, I'm committed to delivering high-quality solutions that meet the needs of users and businesses alike.
 
 - 🌱 Currently learning: **Advanced React concepts**
 - 🔭 Working on: **Building a personal portfolio website**
@@ -19,12 +19,14 @@ I'm a driven **Frontend Developer** with 3.5 years of expertise in HTML, CSS, an
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 
-## Get in Touch 📬
-
-- **[LinkedIn](https://linkedin.com/in/srushti-suvarna-vue-developer/)**
-- **[GitHub](https://github.com/Srushti-9)**
-
 ## Find me around the web 🌎: 
 
-
-- Sharing updates on <a href="https://linkedin.com/in/srushti-suvarna-vue-developer/">LinkedIn</a> 💼
+<div style="display: flex; align-items: center;">
+    <img align="left" width="150" height="150" src="https://github.com/Srushti-9/Srushti-9/blob/389cbd0c2d1ff81d8f973297a1504ebf98ff197a/media/octocat-rotating.gif" style="margin-right: 20px;"/>
+    <div>
+        <ul>
+            <li>Sharing updates on <a href="https://linkedin.com/in/srushti-suvarna-vue-developer/">LinkedIn</a> 💼</li>
+            <li>Explore my open-source projects on <a href="https://github.com/Srushti-9">GitHub</a> 🐙</li>
+        </ul>
+    </div>
+</div>
