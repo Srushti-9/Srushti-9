@@ -1,4 +1,4 @@
-### Hi there, I'm Srushti Suvarna!  👋
+### Hi there, I'm Srushti Suvarna!  👋 <img src="https://github.com/Srushti-9/Srushti-9/blob/275db9ae2af87444f8f4dc23f29ddcbe810f71a7/media/mona-whisper.gif" height="50px" width="50px"/>
 
 ## About Me 🚀
 
@@ -21,7 +21,7 @@ As a **Frontend Developer** with 3.5 years of experience, I've contributed to va
 
 ## Find me around the web 🌎: 
 
-<div style="display: flex; align-items: center;">
+<div>
     <img align="left" width="150" height="150" src="https://github.com/Srushti-9/Srushti-9/blob/389cbd0c2d1ff81d8f973297a1504ebf98ff197a/media/octocat-rotating.gif" style="margin-right: 20px;"/>
     <div>
         <ul>
@@ -30,3 +30,5 @@ As a **Frontend Developer** with 3.5 years of experience, I've contributed to va
         </ul>
     </div>
 </div>
+
+
