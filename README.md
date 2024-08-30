@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-As a **Frontend Developer** with **3.5** years of experience, I specialize in **Vue.js** and **REST API** integration, contributing to projects across healthcare, education, and workplace safety domains. My expertise includes **HTML5**, **CSS3**, **Bootstrap**, **TypeScript**, **JavaScript**,**TailwindCSS** and frameworks like **React**, **NodeJS**, **ExpressJS**, **MongoDB**. Proficient in **SPA** and **MVC** architectures, I solve problems with **Data Structures** and **Algorithms**, while understanding **Operating systems**, **DBMS**, and **Computer Networks**. With a strong educational background in Computer Engineering and a **passion for learning**, I'm committed to delivering high-quality solutions that meet the needs of users and businesses alike.
+As a **Frontend Developer** with **4** years of experience, I specialize in **Vue.js** and **REST API** integration, contributing to projects across healthcare, education, and workplace safety domains. My expertise includes **HTML5**, **CSS3**, **Bootstrap**, **TypeScript**, **JavaScript**,**TailwindCSS** and frameworks like **React**, **NodeJS**, **ExpressJS**, **MongoDB**. Proficient in **SPA** and **MVC** architectures, I solve problems with **Data Structures** and **Algorithms**, while understanding **Operating systems**, **DBMS**, and **Computer Networks**. With a strong educational background in Computer Engineering and a **passion for learning**, I'm committed to delivering high-quality solutions that meet the needs of users and businesses alike.
 
 <br/>
 
